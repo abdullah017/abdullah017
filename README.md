@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter&Dart**
 
-- 📝 I regularly write articles on [www.abdullahtas.net](www.abdullahtas.net)
+- 📝 I regularly write articles on [www.abdullahtas.net](www.abdullahtas.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
