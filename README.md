@@ -14,3 +14,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abdullah017&icon=0&color=6)](https://visitcount.itsvg.in)
+
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
