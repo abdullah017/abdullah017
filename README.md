@@ -95,6 +95,7 @@ class AboutMe {
 ### State Management - Animated Badges
 <p align="center">
   <img src="https://img.shields.io/badge/Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white&3d=true" />
+  <img src="https://img.shields.io/badge/Riverpod-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white&3d=true" />
   <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white&3d=true" />
   <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white&3d=true" />
 </p>
@@ -102,7 +103,7 @@ class AboutMe {
 ### Backend & API 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=graphql,php,wordpress,mysql,docker&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=graphql,php,nodejs,mysql,docker&theme=dark&perline=5" />
   </a>
 </p>
 
