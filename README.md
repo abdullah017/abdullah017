@@ -2,7 +2,7 @@
 
 # 👋 Merhaba, Ben Abdullah Taş
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E9EF7&center=true&vCenter=true&width=940&lines=Senior+Flutter+Developer;5%2B+Y%C4%B1l+Deneyim+%7C+15%2B+Proje;Mobile+%26+Web+Specialist;Bloc+%7C+Provider+%7C+GraphQL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E9EF7&center=true&vCenter=true&width=940&lines=Senior+Flutter+Developer;5%2B+Y%C4%B1l+Deneyim+%7C+15%2B+Proje;Mobile+%26+Web+Specialist;Bloc+%7C+Provider+%7C+GraphQL;Riverpod+%7C+Docker+%7C+Firebase;RestFull+%7C+Wordpress+%7C+Php;" alt="Typing SVG" />
 
 </div>
 
