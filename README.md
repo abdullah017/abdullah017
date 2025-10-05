@@ -29,7 +29,7 @@ class AboutMe {
     "Team Leadership"
   ];
   
-  String currentlyWorkingOn = "IWWOMI - Taxi Booking & AI Health Platform";
+  String currentlyWorkingOn = "IWWOMI";
   
   Map<String, String> reachMe = {
     "email": "dev.abdullahtas@gmail.com",
