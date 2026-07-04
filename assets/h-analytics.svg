@@ -1,0 +1,32 @@
+<svg width="1200" height="76" viewBox="0 0 1200 76" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GITHUB ANALYTICS">
+  <defs>
+    <linearGradient id="lG" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></linearGradient>
+    <linearGradient id="barG" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0.4"/></linearGradient>
+    <linearGradient id="hbgG" x1="0" y1="0" x2="1200" y2="0"><stop offset="0" stop-color="#0A1120"/><stop offset="1" stop-color="#070C18"/></linearGradient>
+    <style>
+      .bG{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+      .mG{font-family:'JetBrains Mono',Consolas,monospace}
+      .numG{font-size:14px;font-weight:800;letter-spacing:3px;fill:#38BDF8}
+      .ttlG{font-size:31px;font-weight:800;letter-spacing:3px;fill:#EAF2FB}
+      .tagG{font-size:12px;font-weight:600;letter-spacing:2px;fill:#48586E}
+      .inG{animation:inG .8s ease-out both}
+      @keyframes inG{from{opacity:0;transform:translateX(-18px)}to{opacity:1;transform:translateX(0)}}
+      .growG{animation:growG 1.2s ease-out .2s both;transform-origin:left}
+      @keyframes growG{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+      .dotG{animation:blG 2s ease-in-out infinite}
+      @keyframes blG{0%,100%{opacity:.35}50%{opacity:1}}
+    </style>
+  </defs>
+  <rect width="1200" height="76" rx="13" fill="url(#hbgG)"/>
+  <rect x="0" y="0" width="5" height="76" rx="2.5" fill="url(#barG)"/>
+  <circle class="dotG" cx="38" cy="38" r="4.5" fill="#38BDF8"/>
+  <text class="bG numG inG" x="62" y="30">/ 07</text>
+  <text class="bG ttlG inG" x="62" y="58">GITHUB ANALYTICS</text>
+  <rect class="growG" x="62" y="66" width="1076" height="2" fill="url(#lG)"/>
+  <text class="mG tagG" x="1150" y="34" text-anchor="end">// metrics</text>
+  <g opacity="0.5">
+    <circle class="dotG" cx="1168" cy="52" r="2.5" fill="#38BDF8"/>
+    <circle class="dotG" cx="1158" cy="52" r="2.5" fill="#38BDF8" style="animation-delay:.4s"/>
+    <circle class="dotG" cx="1148" cy="52" r="2.5" fill="#38BDF8" style="animation-delay:.8s"/>
+  </g>
+</svg>

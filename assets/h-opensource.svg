@@ -1,0 +1,32 @@
+<svg width="1200" height="76" viewBox="0 0 1200 76" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="OPEN SOURCE">
+  <defs>
+    <linearGradient id="lD" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#10B981"/><stop offset="1" stop-color="#10B981" stop-opacity="0"/></linearGradient>
+    <linearGradient id="barD" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#10B981"/><stop offset="1" stop-color="#10B981" stop-opacity="0.4"/></linearGradient>
+    <linearGradient id="hbgD" x1="0" y1="0" x2="1200" y2="0"><stop offset="0" stop-color="#0A1120"/><stop offset="1" stop-color="#070C18"/></linearGradient>
+    <style>
+      .bD{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+      .mD{font-family:'JetBrains Mono',Consolas,monospace}
+      .numD{font-size:14px;font-weight:800;letter-spacing:3px;fill:#10B981}
+      .ttlD{font-size:31px;font-weight:800;letter-spacing:3px;fill:#EAF2FB}
+      .tagD{font-size:12px;font-weight:600;letter-spacing:2px;fill:#48586E}
+      .inD{animation:inD .8s ease-out both}
+      @keyframes inD{from{opacity:0;transform:translateX(-18px)}to{opacity:1;transform:translateX(0)}}
+      .growD{animation:growD 1.2s ease-out .2s both;transform-origin:left}
+      @keyframes growD{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+      .dotD{animation:blD 2s ease-in-out infinite}
+      @keyframes blD{0%,100%{opacity:.35}50%{opacity:1}}
+    </style>
+  </defs>
+  <rect width="1200" height="76" rx="13" fill="url(#hbgD)"/>
+  <rect x="0" y="0" width="5" height="76" rx="2.5" fill="url(#barD)"/>
+  <circle class="dotD" cx="38" cy="38" r="4.5" fill="#10B981"/>
+  <text class="bD numD inD" x="62" y="30">/ 04</text>
+  <text class="bD ttlD inD" x="62" y="58">OPEN SOURCE</text>
+  <rect class="growD" x="62" y="66" width="1076" height="2" fill="url(#lD)"/>
+  <text class="mD tagD" x="1150" y="34" text-anchor="end">// pub.dev</text>
+  <g opacity="0.5">
+    <circle class="dotD" cx="1168" cy="52" r="2.5" fill="#10B981"/>
+    <circle class="dotD" cx="1158" cy="52" r="2.5" fill="#10B981" style="animation-delay:.4s"/>
+    <circle class="dotD" cx="1148" cy="52" r="2.5" fill="#10B981" style="animation-delay:.8s"/>
+  </g>
+</svg>

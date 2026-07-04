@@ -1,0 +1,32 @@
+<svg width="1200" height="76" viewBox="0 0 1200 76" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="PROFESSIONAL EXPERIENCE">
+  <defs>
+    <linearGradient id="lB" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient>
+    <linearGradient id="barB" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0.4"/></linearGradient>
+    <linearGradient id="hbgB" x1="0" y1="0" x2="1200" y2="0"><stop offset="0" stop-color="#0A1120"/><stop offset="1" stop-color="#070C18"/></linearGradient>
+    <style>
+      .bB{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+      .mB{font-family:'JetBrains Mono',Consolas,monospace}
+      .numB{font-size:14px;font-weight:800;letter-spacing:3px;fill:#8B5CF6}
+      .ttlB{font-size:31px;font-weight:800;letter-spacing:3px;fill:#EAF2FB}
+      .tagB{font-size:12px;font-weight:600;letter-spacing:2px;fill:#48586E}
+      .inB{animation:inB .8s ease-out both}
+      @keyframes inB{from{opacity:0;transform:translateX(-18px)}to{opacity:1;transform:translateX(0)}}
+      .growB{animation:growB 1.2s ease-out .2s both;transform-origin:left}
+      @keyframes growB{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+      .dotB{animation:blB 2s ease-in-out infinite}
+      @keyframes blB{0%,100%{opacity:.35}50%{opacity:1}}
+    </style>
+  </defs>
+  <rect width="1200" height="76" rx="13" fill="url(#hbgB)"/>
+  <rect x="0" y="0" width="5" height="76" rx="2.5" fill="url(#barB)"/>
+  <circle class="dotB" cx="38" cy="38" r="4.5" fill="#8B5CF6"/>
+  <text class="bB numB inB" x="62" y="30">/ 02</text>
+  <text class="bB ttlB inB" x="62" y="58">PROFESSIONAL EXPERIENCE</text>
+  <rect class="growB" x="62" y="66" width="1076" height="2" fill="url(#lB)"/>
+  <text class="mB tagB" x="1150" y="34" text-anchor="end">// career.log</text>
+  <g opacity="0.5">
+    <circle class="dotB" cx="1168" cy="52" r="2.5" fill="#8B5CF6"/>
+    <circle class="dotB" cx="1158" cy="52" r="2.5" fill="#8B5CF6" style="animation-delay:.4s"/>
+    <circle class="dotB" cx="1148" cy="52" r="2.5" fill="#8B5CF6" style="animation-delay:.8s"/>
+  </g>
+</svg>
