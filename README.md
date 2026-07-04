@@ -36,58 +36,7 @@
 
 <br/>
 
-## 💼 Professional Experience
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><b>2025 — Present</b><br/><sub>Remote · 🇹🇷 </sub></td>
-<td width="80%">
-
-### IWWOMI — Software Team Lead · Senior Flutter Developer
-
-Leading a 4–5 person engineering team building products for the German market.
-
-- 🚕 Led the **taxi-booking platform** from zero to production — Flutter client suite backed by a custom **Bun + Hono + PostgreSQL/PostGIS** geo-aware backend migrated off Firebase onto **Google Cloud Run** (real-time dispatch, driver tracking, payments)
-- 🏥 Built **MOSSI**, a B2B health-tech platform (Korean partnership): dealers view customers' hair/skin/dental analysis results and order personalized products from a single Flutter application
-- 🧱 Established **Clean Architecture + BLoC** standards, code review culture, and the team's sprint workflow (YouTrack)
-- 🔁 Owns CI/CD: GitLab pipelines, Fastlane release automation, SonarQube quality gates, Firebase Test Lab
-
-</td>
-</tr>
-<tr>
-<td align="center"><b>2022 — 2025</b><br/><sub>Founder · 🇹🇷</sub></td>
-<td>
-
-### SOFTVORTEX — Founder & Lead Developer
-
-Government-backed (KOSGEB) software consultancy. Delivered **8 projects for 7 clients** with a 3–4 person project team.
-
-- ⭐ **23/23 positive reviews — 100% client satisfaction** on Bionluk, including repeat buyers
-- 🚑 **Ambulans Org** — on-demand ambulance dispatch application
-- 👷 **YapanBiri** — freelancer job marketplace (Flutter + PHP)
-- 🩺 **Podovan** — patient record management system (Flutter Web)
-- 📦 **Borvey** — logistics app with live GPS fleet tracking
-
-</td>
-</tr>
-<tr>
-<td align="center"><b>2021 — 2022</b><br/><sub>🇹🇷</sub></td>
-<td>
-
-### ÇÖZÜM TR — Flutter Developer
-
-- 💧 Built **Kalabak Su** for a municipality — GraphQL (Hasura) powered water ordering & courier tracking system, delivered to production
-- ⛵ Developed **Tekne Kirala**, a REST-based boat rental & reservation application
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-
-
-<br/>
 
 ## 📦 Open Source — pub.dev
 
