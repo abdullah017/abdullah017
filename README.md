@@ -101,11 +101,11 @@ Government-backed (KOSGEB) software consultancy. Delivered **8 projects for 7 cl
 
 | Project | Domain | Role & Impact | Stack |
 |:---|:---:|:---|:---|
-| **🚑 Ambulans Org** | Health / Emergency | On-demand ambulance dispatch — request flow, live tracking, ops panel | `Flutter` · `Firebase` · `Maps` |
-| **👷 YapanBiri** | Marketplace | Freelancer job platform — listings, matching, messaging, payments | `Flutter` · `PHP` · `REST` |
-| **🩺 Podovan** | Health-Tech | Clinic patient-record management, delivered as Flutter Web | `Flutter Web` · `PHP` |
-| **📦 Borvey** | Logistics | Moving & logistics app with live GPS fleet tracking | `Flutter` · `Firebase` · `GPS` |
-| **🧠 Aporia** | AI / EdTech | Philosophical discussion app — LLM integration, self-hosted backend, full store deployment | `Flutter` · `Groq` · `Supabase` |
+| **🚑  | Health / Emergency | On-demand ambulance dispatch — request flow, live tracking, ops panel | `Flutter` · `Firebase` · `Maps` |
+| **👷  | Marketplace | Freelancer job platform — listings, matching, messaging, payments | `Flutter` · `PHP` · `REST` |
+| **🩺 | Health-Tech | Clinic patient-record management, delivered as Flutter Web | `Flutter Web` · `PHP` |
+| **📦| Logistics | Moving & logistics app with live GPS fleet tracking | `Flutter` · `Firebase` · `GPS` |
+| **🧠 | AI / EdTech | Philosophical discussion app — LLM integration, self-hosted backend, full store deployment | `Flutter` · `Groq` · `Supabase` |
 
 </div>
 
