@@ -20,7 +20,7 @@
   <rect width="1200" height="76" rx="13" fill="url(#hbgD)"/>
   <rect x="0" y="0" width="5" height="76" rx="2.5" fill="url(#barD)"/>
   <circle class="dotD" cx="38" cy="38" r="4.5" fill="#10B981"/>
-  <text class="bD numD inD" x="62" y="30">/ 04</text>
+  <text class="bD numD inD" x="62" y="30">/ 03</text>
   <text class="bD ttlD inD" x="62" y="58">OPEN SOURCE</text>
   <rect class="growD" x="62" y="66" width="1076" height="2" fill="url(#lD)"/>
   <text class="mD tagD" x="1150" y="34" text-anchor="end">// pub.dev</text>

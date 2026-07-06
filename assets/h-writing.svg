@@ -1,4 +1,4 @@
-<svg width="1200" height="76" viewBox="0 0 1200 76" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="TECHNICAL WRITING">
+<svg width="1200" height="76" viewBox="0 0 1200 76" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="TRANSMISSIONS">
   <defs>
     <linearGradient id="lF" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#EC4899"/><stop offset="1" stop-color="#EC4899" stop-opacity="0"/></linearGradient>
     <linearGradient id="barF" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#EC4899"/><stop offset="1" stop-color="#EC4899" stop-opacity="0.4"/></linearGradient>
@@ -20,8 +20,8 @@
   <rect width="1200" height="76" rx="13" fill="url(#hbgF)"/>
   <rect x="0" y="0" width="5" height="76" rx="2.5" fill="url(#barF)"/>
   <circle class="dotF" cx="38" cy="38" r="4.5" fill="#EC4899"/>
-  <text class="bF numF inF" x="62" y="30">/ 06</text>
-  <text class="bF ttlF inF" x="62" y="58">TECHNICAL WRITING</text>
+  <text class="bF numF inF" x="62" y="30">/ 04</text>
+  <text class="bF ttlF inF" x="62" y="58">TRANSMISSIONS</text>
   <rect class="growF" x="62" y="66" width="1076" height="2" fill="url(#lF)"/>
   <text class="mF tagF" x="1150" y="34" text-anchor="end">// articles</text>
   <g opacity="0.5">

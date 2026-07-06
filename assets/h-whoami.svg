@@ -1,4 +1,4 @@
-<svg width="1200" height="76" viewBox="0 0 1200 76" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="EXECUTIVE SUMMARY">
+<svg width="1200" height="76" viewBox="0 0 1200 76" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="WHOAMI">
   <defs>
     <linearGradient id="lA" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></linearGradient>
     <linearGradient id="barA" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0.4"/></linearGradient>
@@ -21,9 +21,9 @@
   <rect x="0" y="0" width="5" height="76" rx="2.5" fill="url(#barA)"/>
   <circle class="dotA" cx="38" cy="38" r="4.5" fill="#38BDF8"/>
   <text class="bA numA inA" x="62" y="30">/ 01</text>
-  <text class="bA ttlA inA" x="62" y="58">EXECUTIVE SUMMARY</text>
+  <text class="bA ttlA inA" x="62" y="58">WHOAMI</text>
   <rect class="growA" x="62" y="66" width="1076" height="2" fill="url(#lA)"/>
-  <text class="mA tagA" x="1150" y="34" text-anchor="end">// whoami</text>
+  <text class="mA tagA" x="1150" y="34" text-anchor="end">// identity</text>
   <g opacity="0.5">
     <circle class="dotA" cx="1168" cy="52" r="2.5" fill="#38BDF8"/>
     <circle class="dotA" cx="1158" cy="52" r="2.5" fill="#38BDF8" style="animation-delay:.4s"/>
