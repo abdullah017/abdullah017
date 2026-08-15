@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1050" viewBox="0 0 720 1050" fill="none" role="img" aria-label="Mobile vertical acceptance route from real users through mobile, security, services, and owned infrastructure in dark theme">
+  <title>Mobile Acceptance Route — End-to-End Ownership</title>
+  <desc>A vertical mobile-first dark route connects real users, the mobile edge, the trust boundary, service core, and owned infrastructure, followed by three acceptance criteria.</desc>
+  <defs>
+    <pattern id="armd-grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M60 0H0V60" stroke="#A3A094" stroke-opacity=".09"/>
+    </pattern>
+    <style>
+      .sans{font-family:'Space Grotesk',-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif}
+      .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace}
+      .heading{font-size:36px;font-weight:850;letter-spacing:.2px}
+      .subhead{font-size:24px;font-weight:750;letter-spacing:.7px}
+      .step{font-size:24px;font-weight:850}
+      .station{font-size:28px;font-weight:850;letter-spacing:.3px}
+      .detail{font-size:24px;font-weight:650;letter-spacing:0}
+      .criteriaHead{font-size:24px;font-weight:800;letter-spacing:1px}
+      .criterion{font-size:26px;font-weight:850;letter-spacing:.5px}
+      .packet{animation:armd-flow 6.5s linear infinite;transform-box:fill-box;transform-origin:center}
+      @keyframes armd-flow{from{transform:translateY(0)}to{transform:translateY(390px)}}
+      @media (prefers-reduced-motion:reduce){.packet{animation:none}}
+    </style>
+  </defs>
+  <rect width="720" height="1050" fill="#16150F"/>
+  <rect width="720" height="1050" fill="url(#armd-grid)"/>
+  <rect x="1" y="1" width="718" height="1048" stroke="#F1EDE2" stroke-width="2"/>
+
+  <rect x="28" y="25" width="24" height="24" fill="#DCF343" stroke="#F1EDE2" stroke-width="2"/>
+  <text class="sans heading" x="68" y="57" fill="#F1EDE2">ACCEPTANCE ROUTE</text>
+  <text class="mono subhead" x="68" y="90" fill="#8B9BFF">END-TO-END OWNERSHIP</text>
+  <path d="M28 112H692" stroke="#F1EDE2" stroke-width="2.5"/>
+
+  <path d="M108 178V690" stroke="#8B9BFF" stroke-width="4"/>
+  <g stroke="#8B9BFF" stroke-width="4" fill="none">
+    <path d="M98 240l10 12 10-12M98 368l10 12 10-12M98 496l10 12 10-12M98 624l10 12 10-12"/>
+  </g>
+
+  <g>
+    <circle cx="108" cy="178" r="42" fill="#16150F" stroke="#8B9BFF" stroke-width="4"/>
+    <circle cx="108" cy="165" r="9" stroke="#F1EDE2" stroke-width="3"/>
+    <path d="M88 199c3-15 11-22 20-22s17 7 20 22" stroke="#F1EDE2" stroke-width="3"/>
+    <rect x="72" y="140" width="32" height="28" fill="#DCF343" stroke="#F1EDE2" stroke-width="2"/>
+    <text class="mono step" x="88" y="162" text-anchor="middle" fill="#16150F">01</text>
+    <text class="sans station" x="184" y="172" fill="#F1EDE2">REAL USERS</text>
+    <text class="mono detail" x="184" y="205" fill="#A3A094">latency · offline · chaos</text>
+    <path d="M184 230H684" stroke="#A3A094" stroke-opacity=".32" stroke-width="2"/>
+  </g>
+  <g>
+    <rect x="66" y="264" width="84" height="84" fill="#16150F" stroke="#8B9BFF" stroke-width="4"/>
+    <rect x="93" y="274" width="30" height="61" rx="4" stroke="#F1EDE2" stroke-width="3"/>
+    <path d="M99 282h18M99 323h18" stroke="#F1EDE2" stroke-width="2"/>
+    <circle cx="108" cy="329" r="2.5" fill="#8B9BFF"/>
+    <rect x="72" y="268" width="32" height="28" fill="#DCF343" stroke="#F1EDE2" stroke-width="2"/>
+    <text class="mono step" x="88" y="290" text-anchor="middle" fill="#16150F">02</text>
+    <text class="sans station" x="184" y="300" fill="#F1EDE2">MOBILE EDGE</text>
+    <text class="mono detail" x="184" y="333" fill="#A3A094">Flutter · Dart · Kotlin · Swift</text>
+    <path d="M184 358H684" stroke="#A3A094" stroke-opacity=".32" stroke-width="2"/>
+  </g>
+  <g>
+    <path d="M108 390l40 22v44l-40 22-40-22v-44z" fill="#16150F" stroke="#8B9BFF" stroke-width="4"/>
+    <path d="M108 405l24 9v17c0 15-9 25-24 31-15-6-24-16-24-31v-17z" stroke="#F1EDE2" stroke-width="3"/>
+    <path d="M97 433l8 8 16-18" stroke="#8B9BFF" stroke-width="4"/>
+    <rect x="72" y="396" width="32" height="28" fill="#DCF343" stroke="#F1EDE2" stroke-width="2"/>
+    <text class="mono step" x="88" y="418" text-anchor="middle" fill="#16150F">03</text>
+    <text class="sans station" x="184" y="428" fill="#F1EDE2">TRUST BOUNDARY</text>
+    <text class="mono detail" x="184" y="461" fill="#A3A094">OWASP · pinning · secrets</text>
+    <path d="M184 486H684" stroke="#A3A094" stroke-opacity=".32" stroke-width="2"/>
+  </g>
+  <g>
+    <circle cx="108" cy="562" r="42" fill="#16150F" stroke="#8B9BFF" stroke-width="4"/>
+    <path d="M93 537l-13 25 13 25M123 537l13 25-13 25" stroke="#F1EDE2" stroke-width="3"/>
+    <path d="M101 549h14M101 562h14M101 575h14" stroke="#8B9BFF" stroke-width="2"/>
+    <g fill="#F1EDE2"><circle cx="108" cy="549" r="3"/><circle cx="108" cy="562" r="3"/><circle cx="108" cy="575" r="3"/></g>
+    <rect x="72" y="524" width="32" height="28" fill="#DCF343" stroke="#F1EDE2" stroke-width="2"/>
+    <text class="mono step" x="88" y="546" text-anchor="middle" fill="#16150F">04</text>
+    <text class="sans station" x="184" y="556" fill="#F1EDE2">SERVICE CORE</text>
+    <text class="mono detail" x="184" y="589" fill="#A3A094">Bun · Hono · REST · GraphQL</text>
+    <path d="M184 614H684" stroke="#A3A094" stroke-opacity=".32" stroke-width="2"/>
+  </g>
+  <g>
+    <rect x="66" y="648" width="84" height="84" fill="#16150F" stroke="#8B9BFF" stroke-width="4"/>
+    <rect x="82" y="660" width="52" height="17" stroke="#F1EDE2" stroke-width="2.5"/>
+    <rect x="82" y="681" width="52" height="17" stroke="#F1EDE2" stroke-width="2.5"/>
+    <rect x="82" y="702" width="52" height="17" stroke="#F1EDE2" stroke-width="2.5"/>
+    <g fill="#8B9BFF"><circle cx="90" cy="668.5" r="2.5"/><circle cx="90" cy="689.5" r="2.5"/><circle cx="90" cy="710.5" r="2.5"/></g>
+    <rect x="72" y="652" width="32" height="28" fill="#DCF343" stroke="#F1EDE2" stroke-width="2"/>
+    <text class="mono step" x="88" y="674" text-anchor="middle" fill="#16150F">05</text>
+    <text class="sans station" x="184" y="684" fill="#F1EDE2">OWNED INFRA</text>
+    <text class="mono detail" x="184" y="717" fill="#A3A094">Postgres · Docker · Linux · Coolify</text>
+    <path d="M184 742H684" stroke="#A3A094" stroke-opacity=".32" stroke-width="2"/>
+  </g>
+
+  <rect class="packet" x="100" y="236" width="16" height="16" rx="3" fill="#DCF343" stroke="#16150F" stroke-width="2"/>
+
+  <text class="mono criteriaHead" x="36" y="790" fill="#8B9BFF">ACCEPTANCE CRITERIA</text>
+  <g>
+    <rect x="36" y="810" width="648" height="64" fill="#DCF343" stroke="#F1EDE2" stroke-width="2.5"/>
+    <path d="M62 842l10 10 20-24" stroke="#16150F" stroke-width="5"/>
+    <text class="sans criterion" x="112" y="852" fill="#16150F">FEELS NATIVE</text>
+    <rect x="36" y="886" width="648" height="64" fill="#DCF343" stroke="#F1EDE2" stroke-width="2.5"/>
+    <path d="M62 918l10 10 20-24" stroke="#16150F" stroke-width="5"/>
+    <text class="sans criterion" x="112" y="928" fill="#16150F">FAILS SAFELY</text>
+    <rect x="36" y="962" width="648" height="64" fill="#DCF343" stroke="#F1EDE2" stroke-width="2.5"/>
+    <path d="M62 994l10 10 20-24" stroke="#16150F" stroke-width="5"/>
+    <text class="sans criterion" x="112" y="1004" fill="#16150F">CAN BE OPERATED</text>
+  </g>
+</svg>

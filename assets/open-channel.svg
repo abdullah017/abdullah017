@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" fill="none" role="img" aria-label="Open channel invitation: Bring me the hard part">
+  <title>Bring Me the Hard Part</title>
+  <desc>An open invitation to collaborate on architecture, mobile security, and systems that can actually be operated.</desc>
+  <defs>
+    <pattern id="oc-grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#16150F" stroke-opacity=".08"/>
+    </pattern>
+    <style>
+      .sans{font-family:'Space Grotesk',-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif}
+      .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace}
+      .headline{font-size:56px;font-weight:850;letter-spacing:-1.8px}
+      .subline{font-size:20px;font-weight:700;letter-spacing:.25px}
+      .label{font-size:14px;font-weight:800;letter-spacing:1.4px}
+    </style>
+  </defs>
+  <rect width="1200" height="180" fill="#DCF343"/>
+  <rect width="1200" height="180" fill="url(#oc-grid)"/>
+  <rect x="1" y="1" width="1198" height="178" stroke="#16150F" stroke-width="2"/>
+  <path d="M28 20v-8h8M28 160v8h8M864 12h8v8M864 168h8v-8" stroke="#16150F" stroke-width="2"/>
+
+  <rect x="34" y="31" width="12" height="12" fill="#16150F"/>
+  <text class="mono label" x="58" y="43" fill="#16150F">INBOUND / HIGH-CONSEQUENCE WORK</text>
+  <text class="sans headline" x="34" y="105" fill="#16150F">BRING ME THE HARD PART.</text>
+  <text class="sans subline" x="36" y="141" fill="#16150F">architecture · mobile security · systems you can actually operate</text>
+
+  <path d="M894 20v140" stroke="#16150F" stroke-width="3"/>
+  <path d="M863 90h31M880 77l14 13-14 13" stroke="#16150F" stroke-width="3"/>
+  <rect x="924" y="24" width="244" height="132" stroke="#16150F" stroke-width="2"/>
+  <text class="mono label" x="1046" y="49" text-anchor="middle" fill="#16150F">OPEN CHANNEL</text>
+  <path d="M946 60h200" stroke="#16150F" stroke-width="2"/>
+  <text class="sans" x="1046" y="119" text-anchor="middle" font-size="60" font-weight="900" letter-spacing="-3" fill="#16150F">AT.</text>
+  <circle cx="952" cy="139" r="5" fill="#16150F"/>
+  <text class="mono label" x="966" y="144" fill="#16150F">SIGNAL / ACTIVE</text>
+</svg>
