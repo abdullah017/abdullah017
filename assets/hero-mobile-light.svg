@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 720 720" fill="none" role="img" aria-label="Mobile production field manual cover for Abdullah Taş with Survives Reality verification stamp">
+  <title>Abdullah Taş — Mobile Production Field Manual</title>
+  <desc>A mobile-first technical cover identifying Abdullah Taş as a software team lead whose systems survive reality.</desc>
+  <defs>
+    <pattern id="hml-grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#6D6A5E" stroke-opacity=".14"/>
+    </pattern>
+    <style>
+      .sans{font-family:'Space Grotesk',-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif}
+      .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace}
+      .register{font-size:24px;font-weight:750;letter-spacing:.7px}
+      .name{font-size:82px;font-weight:850;letter-spacing:-3px}
+      .surname{font-size:136px;font-weight:850;letter-spacing:-5px}
+      .role{font-size:28px;font-weight:800;letter-spacing:.35px}
+      .place{font-size:28px;font-weight:850;letter-spacing:.5px}
+      .stampMeta{font-size:24px;font-weight:800;letter-spacing:.7px}
+      .stampWord{font-weight:900;letter-spacing:.5px}
+      .slogan{font-size:28px;font-weight:850;letter-spacing:.15px}
+      .statusDot{animation:hml-status 2.6s ease-in-out infinite}
+      @keyframes hml-status{0%,100%{opacity:.45}50%{opacity:1}}
+      @media (prefers-reduced-motion:reduce){.statusDot{animation:none}}
+    </style>
+  </defs>
+  <rect width="720" height="720" fill="#F4F0E6"/>
+  <rect y="72" width="720" height="564" fill="url(#hml-grid)"/>
+  <rect width="720" height="72" fill="#2742E6"/>
+  <rect x="24" y="23" width="20" height="20" fill="#DCF343"/>
+  <circle class="statusDot" cx="34" cy="33" r="4" fill="#16150F"/>
+  <text class="sans register" x="58" y="43" fill="#F4F0E6">PRODUCTION FIELD MANUAL</text>
+  <text class="mono register" x="690" y="43" text-anchor="end" fill="#F4F0E6">AT-0611</text>
+
+  <path d="M24 96V84h12M684 84h12v12M24 612v12h12M684 624h12v-12" stroke="#16150F" stroke-width="2"/>
+  <text class="sans name" x="34" y="172" fill="#16150F">ABDULLAH</text>
+  <text class="sans surname" x="30" y="292" fill="#16150F">TAŞ</text>
+  <path d="M36 310h430" stroke="#2742E6" stroke-width="3"/>
+  <text class="sans role" x="36" y="348" fill="#16150F">SOFTWARE TEAM LEAD</text>
+  <text class="sans role" x="36" y="382" fill="#2742E6">FULL-STACK · FLUTTER</text>
+
+  <g transform="rotate(-2 360 490)">
+    <text class="mono stampMeta" x="94" y="405" fill="#6D6A5E">DEMO PASSED</text>
+    <path d="M88 394l190 17" stroke="#2742E6" stroke-width="4"/>
+    <rect x="72" y="418" width="576" height="164" fill="#F4F0E6" fill-opacity=".97" stroke="#2742E6" stroke-width="7"/>
+    <rect x="86" y="432" width="548" height="136" stroke="#2742E6" stroke-width="2.5"/>
+    <path d="M86 466h548M86 548h548" stroke="#2742E6" stroke-width="2.5"/>
+    <circle cx="108" cy="450" r="7" fill="#DCF343" stroke="#16150F" stroke-width="2"/>
+    <text class="mono stampMeta" x="127" y="458" fill="#2742E6">FIELD VERIFIED / ACCEPTED</text>
+    <text class="sans stampWord" x="360" y="512" text-anchor="middle" font-size="52" fill="#2742E6">SURVIVES</text>
+    <text class="sans stampWord" x="360" y="558" text-anchor="middle" font-size="62" fill="#2742E6">REALITY</text>
+  </g>
+
+  <text class="sans place" x="36" y="620" fill="#2742E6">TÜRKİYE → WORLDWIDE</text>
+  <rect y="636" width="720" height="84" fill="#DCF343"/>
+  <path d="M24 636v84M696 636v84" stroke="#16150F" stroke-width="2"/>
+  <text class="sans slogan" x="360" y="688" text-anchor="middle" fill="#16150F">I BUILD THE PARTS THAT DON’T GET TO FAIL.</text>
+  <rect x="1" y="1" width="718" height="718" stroke="#16150F" stroke-width="2"/>
+</svg>

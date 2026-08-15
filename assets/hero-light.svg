@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" fill="none" role="img" aria-label="Abdullah Taş production field manual cover with Survives Reality verification stamp">
+  <title>Abdullah Taş — Production Field Manual</title>
+  <desc>Technical field manual cover identifying Abdullah Taş as a software team lead whose systems survive reality.</desc>
+  <defs>
+    <pattern id="hl-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#6D6A5E" stroke-opacity=".16" stroke-width="1"/>
+    </pattern>
+    <clipPath id="hl-frame"><rect width="1200" height="500"/></clipPath>
+    <style>
+      .sans{font-family:'Space Grotesk',-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif}
+      .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace}
+      .register{font-size:16px;font-weight:700;letter-spacing:1.35px}
+      .micro{font-size:12px;font-weight:700;letter-spacing:1.25px}
+      .name{font-size:86px;font-weight:800;letter-spacing:-3px}
+      .surname{font-size:132px;font-weight:800;letter-spacing:-5px}
+      .role{font-size:20px;font-weight:700;letter-spacing:.7px}
+      .place{font-size:21px;font-weight:800;letter-spacing:1px}
+      .stampWord{font-weight:900;letter-spacing:1px}
+      .statusDot{animation:hl-status 2.6s ease-in-out infinite}
+      @keyframes hl-status{0%,100%{opacity:.45}50%{opacity:1}}
+      @media (prefers-reduced-motion:reduce){.statusDot{animation:none}}
+    </style>
+  </defs>
+  <g clip-path="url(#hl-frame)">
+    <rect width="1200" height="500" fill="#F4F0E6"/>
+    <rect y="62" width="1200" height="368" fill="url(#hl-grid)"/>
+
+    <rect width="1200" height="62" fill="#2742E6"/>
+    <rect x="28" y="21" width="14" height="14" fill="#DCF343"/>
+    <circle class="statusDot" cx="35" cy="28" r="3" fill="#16150F"/>
+    <text class="sans register" x="58" y="34" fill="#F4F0E6">PRODUCTION FIELD MANUAL / SOFTWARE SYSTEMS</text>
+    <text class="mono register" x="934" y="34" text-anchor="end" fill="#F4F0E6">DOC AT-0611</text>
+    <text class="mono register" x="1168" y="34" text-anchor="end" fill="#F4F0E6">REV 2026.08</text>
+
+    <g stroke="#16150F" stroke-width="1.5">
+      <path d="M28 84v-12h12M1160 72h12v12M28 408v12h12M1160 420h12v-12"/>
+      <path d="M48 76v10m20-10v6m20-6v10m20-10v6m20-6v10m20-10v6m20-6v10m20-10v6m20-6v10" opacity=".55"/>
+    </g>
+    <text class="mono micro" x="28" y="104" fill="#6D6A5E" transform="rotate(-90 28 104)">CAL / 02</text>
+    <text class="mono micro" x="1172" y="400" text-anchor="end" fill="#6D6A5E" transform="rotate(90 1172 400)">FIELD / 0611</text>
+
+    <text class="mono micro" x="58" y="100" fill="#2742E6">OPERATOR / AT · SYSTEM CLASS 06</text>
+    <text class="sans name" x="54" y="184" fill="#16150F">ABDULLAH</text>
+    <text class="sans surname" x="50" y="296" fill="#16150F">TAŞ</text>
+    <rect x="58" y="324" width="548" height="2" fill="#2742E6"/>
+    <text class="sans role" x="58" y="356" fill="#16150F">SOFTWARE TEAM LEAD / FULL-STACK · FLUTTER</text>
+    <text class="sans place" x="58" y="392" fill="#2742E6">TÜRKİYE → WORLDWIDE</text>
+    <text class="mono micro" x="442" y="392" fill="#6D6A5E">UTC+03 / REMOTE-CAPABLE</text>
+
+    <g transform="rotate(-4 935 216)">
+      <text class="mono micro" x="747" y="105" fill="#6D6A5E">DEMO PASSED</text>
+      <path d="M743 98l139 15" stroke="#2742E6" stroke-width="3"/>
+      <rect x="726" y="118" width="418" height="206" fill="#F4F0E6" fill-opacity=".96" stroke="#2742E6" stroke-width="6"/>
+      <rect x="738" y="130" width="394" height="182" stroke="#2742E6" stroke-width="2"/>
+      <path d="M738 161h394M738 291h394" stroke="#2742E6" stroke-width="2"/>
+      <circle cx="759" cy="146" r="5" fill="#DCF343" stroke="#16150F" stroke-width="1.5"/>
+      <text class="mono micro" x="774" y="151" fill="#2742E6">FIELD VERIFICATION / ACCEPTED</text>
+      <text class="sans stampWord" x="935" y="222" text-anchor="middle" font-size="58" fill="#2742E6">SURVIVES</text>
+      <text class="sans stampWord" x="935" y="281" text-anchor="middle" font-size="68" fill="#2742E6">REALITY</text>
+      <text class="mono micro" x="750" y="307" fill="#2742E6">INSPECTED IN PRODUCTION</text>
+      <text class="mono micro" x="1120" y="307" text-anchor="end" fill="#2742E6">AT / 0611</text>
+    </g>
+
+    <g fill="#16150F">
+      <rect x="648" y="366" width="6" height="6"/>
+      <rect x="664" y="366" width="16" height="6"/>
+      <rect x="690" y="366" width="6" height="6"/>
+    </g>
+    <text class="mono micro" x="648" y="394" fill="#6D6A5E">LOAD / VERIFY / OPERATE</text>
+
+    <rect y="430" width="1200" height="70" fill="#DCF343"/>
+    <path d="M28 430v70M1172 430v70" stroke="#16150F" stroke-width="2"/>
+    <text class="sans" x="600" y="475" text-anchor="middle" font-size="28" font-weight="800" letter-spacing=".7" fill="#16150F">I BUILD THE PARTS THAT DON’T GET TO FAIL.</text>
+    <text class="mono micro" x="42" y="475" fill="#16150F">01</text>
+    <text class="mono micro" x="1158" y="475" text-anchor="end" fill="#16150F">AT</text>
+    <rect x="1" y="1" width="1198" height="498" stroke="#16150F" stroke-width="2"/>
+  </g>
+</svg>
